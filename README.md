@@ -342,5 +342,3 @@ The `CalculateAge` unit tests live in [`internal/service/age_test.go`](internal/
 | `DB_NAME` | `usersdb` | MySQL database name |
 
 Copy `.env.example` to `.env` and fill in values before running locally.
-
-> ⚠️ **Never commit `.env` to version control.** It is listed in `.gitignore`.
