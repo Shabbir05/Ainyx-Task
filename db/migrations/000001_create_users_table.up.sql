@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS users (
+  id   INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  name TEXT         NOT NULL,
+  dob  DATE         NOT NULL
+);

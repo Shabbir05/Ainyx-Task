@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Binary outputs
+/bin/
+*.exe
+*.exe~
+
+# Go build cache
+/vendor/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLC generated (optional — include if you want reproducible builds)
+# db/sqlc/db.go
+# db/sqlc/models.go
+# db/sqlc/query.sql.go
