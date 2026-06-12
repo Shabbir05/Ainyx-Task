@@ -1,4 +1,4 @@
-# user-api
+# Ainyx Task
 
 A production-ready RESTful API built with **GoFiber** that manages users with `name` and `dob` (date of birth). Age is **never stored** — it is always calculated dynamically at runtime using Go's `time` package.
 
